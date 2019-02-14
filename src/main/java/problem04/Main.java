@@ -40,7 +40,7 @@ public class Main {
 	}
 		
 
-		// 여기서 원하는 작업을 해 줍니다.
+
 
 		long end = System.currentTimeMillis();
 
